@@ -7,7 +7,7 @@
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming | :black_heart: Reading | :blue_heart: Anime
   
 I am a second-year graduate student at the University of Electronic Science and Technology of China. I love Java and trying to find more about Full Stack Web Development and Java Web. 
 
