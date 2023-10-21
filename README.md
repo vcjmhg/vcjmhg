@@ -11,8 +11,7 @@
   
 I am a second-year graduate student at the University of Electronic Science and Technology of China. I love Java and trying to find more about Full Stack Web Development and Java Web. 
 
-- 🔭 I am currently using java to develop the SkyWalking webflux webclient plugin.
-- 🌱 I’m currently learning APM | Full Stack Web development
+- 🔭 I am working in alipay.
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
